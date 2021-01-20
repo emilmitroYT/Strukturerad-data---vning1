@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Titel>
+     <n>1</n>
+        <namn>Json</namn>
+        <artist>Paul</artist>
+        <genre>xml</genre>
+        <Publiceringsår>2021</Publiceringsår>
+        <Skivbolag>paul studio</Skivbolag>
+        <Producent>Paul inx</Producent>
+    <n>2</n>
+        <namn>xd</namn>
+        <artist>Paul</artist>
+        <genre>xd</genre>
+        <Publiceringsår>2021</Publiceringsår>
+        <Skivbolag>xd studio</Skivbolag>
+        <Producent>xd inx</Producent>
+    <n>3</n>
+        <namn>food</namn>
+        <artist>Paul</artist>
+        <genre>food</genre>
+        <Publiceringsår>2021</Publiceringsår>
+        <Skivbolag>food studio</Skivbolag>
+        <Producent>food inx</Producent>
+    <n>4</n>
+        <namn>pu20h</namn>
+        <artist>pu20h</artist>
+        <genre>H</genre>
+        <Publiceringsår>2021</Publiceringsår>
+        <Skivbolag>pu20h studio</Skivbolag>
+        <Producent>pu20h inx</Producent>
+
+</Titel>
